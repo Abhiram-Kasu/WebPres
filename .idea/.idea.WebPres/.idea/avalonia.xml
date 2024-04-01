@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="WebPres/App.axaml" value="WebPres/WebPres.csproj" />
+        <entry key="WebPres/MainWindow.axaml" value="WebPres/WebPres.csproj" />
+        <entry key="WebPres/Views/HomeView.axaml" value="WebPres/WebPres.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

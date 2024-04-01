@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+  </PropertyGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets\Fonts\*" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Bold.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-BoldItalic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-ExtraBold.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-ExtraBoldItalic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-ExtraLight.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-ExtraLightItalic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Italic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Light.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-LightItalic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Medium.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-MediumItalic.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Regular.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-SemiBold.ttf" />
+    <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-SemiBoldItalic.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Bold.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-BoldItalic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-ExtraBold.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-ExtraBoldItalic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-ExtraLight.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-ExtraLightItalic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Italic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Light.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-LightItalic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Medium.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-MediumItalic.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Regular.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-SemiBold.ttf" />
+    <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-SemiBoldItalic.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="11.0.10" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.0.10" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.0.10" />
+    <PackageReference Include="Avalonia.Fonts.Inter" Version="11.0.10" />
+    <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
+    <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="11.0.10" />
+    <PackageReference Include="AvaloniaHelpers.Navigation" Version="0.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="MainWindow.axaml.cs">
+      <DependentUpon>MainWindow.axaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  
+</Project>

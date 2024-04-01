@@ -1,0 +1,53 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="WebPres.App"
+             RequestedThemeVariant="Dark">
+             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
+
+    <Application.Styles >
+        <FluentTheme />
+		
+    </Application.Styles>
+	<Application.Resources>
+		
+		<FontFamily x:Key="PlusJakartaFont">avares://WebPres/Assets/Fonts/PlusJakartaSans.ttf#Plus Jakarta Sans</FontFamily>
+		<!-- <FontFamily x:Key="PlusJakartaFontBold">avares://WebPres/Assets/Fonts/PlusJakartaSans-Bold.ttf#Plus Jakarta Sans Bold</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-Italic.ttf#Plus Jakarta Sans Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontBoldItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-BoldItalic.ttf#Plus Jakarta Sans Bold Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontLight">avares://WebPres/Assets/Fonts/PlusJakartaSans-Light.ttf#Plus Jakarta Sans Light</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontLightItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-LightItalic.ttf#Plus Jakarta Sans Light Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontMedium">avares://WebPres/Assets/Fonts/PlusJakartaSans-Medium.ttf#Plus Jakarta Sans Medium</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontMediumItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-MediumItalic.ttf#Plus Jakarta Sans Medium Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontSemiBold">avares://WebPres/Assets/Fonts/PlusJakartaSans-SemiBold.ttf#Plus Jakarta Sans SemiBold</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontSemiBoldItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-SemiBoldItalic.ttf#Plus Jakarta Sans SemiBold Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontThin">avares://WebPres/Assets/Fonts/PlusJakartaSans-Thin.ttf#Plus Jakarta Sans Thin</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontThinItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-ThinItalic.ttf#Plus Jakarta Sans ThinItalic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontExtraLight">avares://WebPres/Assets/Fonts/PlusJakartaSans-ExtraLight.ttf#Plus Jakarta Sans ExtraLight</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontExtraLightItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-ExtraLightItalic.ttf#Plus Jakarta Sans ExtraLight Italic</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontExtraBold">avares://WebPres/Assets/Fonts/PlusJakartaSans-ExtraBold.ttf#Plus Jakarta Sans ExtraBold</FontFamily> -->
+		<!-- <FontFamily x:Key="PlusJakartaFontExtraBoldItalic">avares://WebPres/Assets/Fonts/PlusJakartaSans-ExtraBoldItalic.ttf#Plus Jakarta Sans ExtraBold Italic</FontFamily> -->
+		
+
+
+		<Color x:Key="BackgroundColor">#323031</Color>
+		<Color x:Key="LighterBackgroundColor">#3D3B3C</Color>
+		<Color x:Key="EvenLighterBackgroundColor">#7F7979</Color>
+		<Color x:Key="SecondaryAccentColor">#C1BDB3</Color>
+		<Color x:Key="MainAccentColor">#5F5B6B</Color>
+	</Application.Resources>
+	
+	<Application.Styles>
+		
+			<Style Selector="Button.nav">
+				<Setter Property="CornerRadius" Value="10"/>
+				<Setter Property="Padding" Value="10,5,10,5"/>
+				
+			</Style>
+		
+	</Application.Styles>
+	
+		
+			
+			
+	
+</Application>

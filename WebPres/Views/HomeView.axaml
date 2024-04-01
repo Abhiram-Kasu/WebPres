@@ -1,0 +1,24 @@
+<UserControl xmlns:vm="clr-namespace:WebPres.ViewModels;assembly=WebPres" xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="WebPres.HomeView" x:DataType="vm:HomeViewModel"  >
+	
+    <Design.DataContext>
+        <vm:HomeViewModel/>
+    </Design.DataContext>
+	<Grid RowDefinitions="75, *">
+		<Border Grid.Row="0" Margin="10" CornerRadius="15"  >
+			<Button Focusable="False" FontFamily="{StaticResource PlusJakartaFont}" FontWeight="Bold"  FontSize="17" Margin="10" Background="{DynamicResource MainAccentColor}" Classes="nav" Content="{Binding Title}"/>
+			<Border.Background>
+				<LinearGradientBrush>
+					<LinearGradientBrush.GradientStops>
+						<GradientStop Offset="0" Color="{DynamicResource LighterBackgroundColor}"/>
+						<GradientStop Offset="1" Color="{DynamicResource MainAccentColor}" />
+					</LinearGradientBrush.GradientStops>
+				</LinearGradientBrush>
+			</Border.Background>
+		</Border>
+	</Grid>
+</UserControl>

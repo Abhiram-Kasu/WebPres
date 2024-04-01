@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\WebPres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|d:\\repos\\webpres\\webpres\\webpres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74EA28BC-019B-4086-8705-1C08617B3456}|WebPres\\WebPres.csproj|solutionrelative:webpres\\webpres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:89637415:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "WebPres\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "WebPres\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:27:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeView.axaml",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\Views\\HomeView.axaml",
+              "RelativeDocumentMoniker": "WebPres\\Views\\HomeView.axaml",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\Views\\HomeView.axaml",
+              "RelativeToolTip": "WebPres\\Views\\HomeView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T03:27:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeView.axaml.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\Views\\HomeView.axaml.cs",
+              "RelativeDocumentMoniker": "WebPres\\Views\\HomeView.axaml.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\Views\\HomeView.axaml.cs",
+              "RelativeToolTip": "WebPres\\Views\\HomeView.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:27:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\App.axaml.cs",
+              "RelativeDocumentMoniker": "WebPres\\App.axaml.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\App.axaml.cs",
+              "RelativeToolTip": "WebPres\\App.axaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:23:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.axaml",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\App.axaml",
+              "RelativeDocumentMoniker": "WebPres\\App.axaml",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\App.axaml",
+              "RelativeToolTip": "WebPres\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T05:23:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "WebPres\\GlobalUsings.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\GlobalUsings.cs",
+              "RelativeToolTip": "WebPres\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:22:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "WebPres\\MainWindow.axaml",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml",
+              "RelativeToolTip": "WebPres\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T03:12:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\Program.cs",
+              "RelativeDocumentMoniker": "WebPres\\Program.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\Program.cs",
+              "RelativeToolTip": "WebPres\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:06:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\app.manifest",
+              "RelativeDocumentMoniker": "WebPres\\app.manifest",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\app.manifest",
+              "RelativeToolTip": "WebPres\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-04-01T05:33:35.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "WebPres\\MainWindow.axaml",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml",
+              "RelativeToolTip": "WebPres\\MainWindow.axaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T03:05:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:858201165:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "WebPres\\MainWindow.axaml.cs",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\MainWindow.axaml.cs",
+              "RelativeToolTip": "WebPres\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:04:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebPres.csproj",
+              "DocumentMoniker": "D:\\repos\\WebPres\\WebPres\\WebPres.csproj",
+              "RelativeDocumentMoniker": "WebPres\\WebPres.csproj",
+              "ToolTip": "D:\\repos\\WebPres\\WebPres\\WebPres.csproj",
+              "RelativeToolTip": "WebPres\\WebPres.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T03:06:14.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
