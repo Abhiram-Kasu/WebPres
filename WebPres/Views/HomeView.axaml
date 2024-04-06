@@ -10,7 +10,16 @@
     </Design.DataContext>
 	<Grid RowDefinitions="75, *">
 		<Border Grid.Row="0" Margin="10" CornerRadius="15"  >
+			<Grid ColumnDefinitions="Auto, * , Auto" >
 			<Button Focusable="False" FontFamily="{StaticResource PlusJakartaFont}" FontWeight="Bold"  FontSize="17" Margin="10" Background="{DynamicResource MainAccentColor}" Classes="nav" Content="{Binding Title}"/>
+			<StackPanel Margin="10" VerticalAlignment="Center" Grid.Column="2">
+				<Button Command="{Binding CreateNewFlowCommand}" CornerRadius="10" Padding="15,5" Background="DarkGreen"   >
+					<Button.Content>
+						<TextBlock Foreground="Green" FontFamily="avares://WebPres/Assets/Fonts/#FontAwesome" Text="&#xf067;" />
+					</Button.Content>
+				</Button>
+			</StackPanel>	
+			</Grid>
 			<Border.Background>
 				<LinearGradientBrush>
 					<LinearGradientBrush.GradientStops>

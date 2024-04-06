@@ -23,6 +23,7 @@
     <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-Regular.ttf" />
     <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-SemiBold.ttf" />
     <None Remove="Assets\Fonts\PlusJakartaSans\PlusJakartaSans-SemiBoldItalic.ttf" />
+    <None Remove="Assets\Icons\plus.svg" />
   </ItemGroup>
   <ItemGroup>
     <AvaloniaResource Include="Assets\Fonts\PlusJakartaSans-Bold.ttf" />

@@ -126,3 +126,4 @@ D:\repos\WebPres\WebPres\obj\Debug\net8.0\WebPres.genruntimeconfig.cache
 D:\repos\WebPres\WebPres\obj\Debug\net8.0\ref\WebPres.dll
 D:\repos\WebPres\WebPres\bin\Debug\net8.0\AvaloniaHelpers.Navigation.dll
 D:\repos\WebPres\WebPres\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+D:\repos\WebPres\WebPres\obj\Debug\net8.0\WebPres.sourcelink.json
